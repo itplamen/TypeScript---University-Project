@@ -1,2 +1,2 @@
 # TypeScript---University-Project
-Homework from Telerik Academy course: 
+Homework from Telerik Academy course
